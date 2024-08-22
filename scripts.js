@@ -1,6 +1,6 @@
 /* ==== typing animation ====*/
 var typed = new Typed(".typing",{
-  strings: ["","Buy Gift Cards","Buy Bitcoin","Sell Bitcoin and get paid in Naira","Sell Paypal and Cashapp Funds and get paid in Naira"],
+  strings: ["Buy Gift Cards","Buy Bitcoin","Sell Bitcoin and get paid in Naira","Sell Paypal and Cashapp Funds and get paid in Naira"],
   typeSpeed: 100,
   BackSpeed: 60,
   loop:true
